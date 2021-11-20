@@ -5,8 +5,9 @@ body, html {
 }
 
 .hero-image {
-  background-image: url("https://image.shutterstock.com/image-photo/amazing-autumn-sunrise-hintersee-lake-260nw-747646747.jpg");
-  height: 70%;
+  background-image: url("https://i.imgur.com/100yxpt.jpg");
+  height: 100%;
+  width:100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -44,4 +45,14 @@ body, html {
 
 .center{
   text-align: center;
+}
+
+.bike{
+  height:500px;
+  width:400px
+}
+
+.fernado{
+  height:500px;
+  width:500px;
 }
